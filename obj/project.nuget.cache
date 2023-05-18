@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wTNv20RI/jZRt2qp5GKvZoTxRKHaLIy0+nUfn565kXli/a/1Ysz+6lwkZwh/8SGXeTk9mU8nvBB349jod0GJag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlexeyProtsenko\\Desktop\\Основы алгоритмизации и программирования\\С#\\calendar\\calendar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlexeyProtsenko\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\AlexeyProtsenko\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\AlexeyProtsenko\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
